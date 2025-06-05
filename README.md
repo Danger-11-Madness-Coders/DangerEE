@@ -1,6 +1,6 @@
 # Einstein Engines
 
-<p align="center"><img src="https://raw.githubusercontent.com/Simple-Station/Einstein-Engines/master/Resources/Textures/Logo/splashlogo.png" width="512px" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Danger 11 Madness Coders/DangerDeep/master/Resources/Textures/Logo/DangerCode.png" width="512px" /></p>
 
 ---
 
