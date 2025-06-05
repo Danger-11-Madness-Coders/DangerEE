@@ -1,6 +1,6 @@
 # Einstein Engines
 
-<p align="center"><img src="https://raw.githubusercontent.com/Danger11MadnessCoders/DangerDeep/master/Resources/Textures/Logo/DangerCode.png" width="512px" /></p>
+<p align="center"><img src="https://github.com/Danger11MadnessCoders/DangerDeep/master/Resources/Textures/Logo/DangerCode.png" width="512px" /></p>
 
 ---
 
